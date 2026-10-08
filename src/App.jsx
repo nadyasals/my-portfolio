@@ -65,6 +65,16 @@ function App() {
       category: "Deep Learning / Explainable AI",
       description:
         "A skin lesion classification research project using deep learning and Explainable AI to support model transparency.",
+      image: "/project/ICORIS.jpg",
+      // link: "https://ieeexplore.ieee.org/document/11665972",
+    },
+    {
+      id: 3,
+      title: "INTELLISED",
+      category: "Student Research / Drone System",
+      description:
+        "Drone System for Smart and Sustainable Reforestation.",
+      image: "/project/IJRS.jpg",
       // link: "https://ieeexplore.ieee.org/document/11665972",
     },
   ];
@@ -373,7 +383,7 @@ function App() {
 
 
               <a
-                href="/CV_NadyaSalsabila_Akademik.pdf"
+                href="/CV_NadyaSalsabila.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="cv-button"
